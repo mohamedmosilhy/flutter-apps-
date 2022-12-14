@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34625050427",
+    "project_id": "fir-example-7040c",
+    "storage_bucket": "fir-example-7040c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34625050427:android:96f3044ce2dfa69c38091e",
+        "android_client_info": {
+          "package_name": "com.example.fierbaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34625050427-krbb0ec9mrvdah74msi4gu9lerq07t9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzV0x0wRz37MNW51x8_nHCtQS_dvwaJuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34625050427-krbb0ec9mrvdah74msi4gu9lerq07t9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
